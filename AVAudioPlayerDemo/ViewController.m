@@ -30,6 +30,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
+    self.title = @"MusicPod";
+
     _arr = @[@"存在",@"沧浪之歌",@"老男孩",@"空城",@"一块红布",@"蓝莲花"];
     [self setupAV];
 

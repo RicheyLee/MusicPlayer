@@ -18,6 +18,7 @@
 
 -(void)viewDidLoad
 {
+    self.title = @"onlineMusic";
     _webview =  [[UIWebView alloc]initWithFrame:self.view.frame];
    _webview.backgroundColor = [UIColor whiteColor];
     _webview.scalesPageToFit = YES;
