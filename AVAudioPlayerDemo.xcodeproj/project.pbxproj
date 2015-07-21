@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EB6E629C1B5DC89800B34EC7 /* login_introduce_bg4@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB6E629B1B5DC89800B34EC7 /* login_introduce_bg4@2x.jpg */; };
+		EB6E629F1B5DE42300B34EC7 /* 一块红布.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EB6E629D1B5DE42300B34EC7 /* 一块红布.mp3 */; };
+		EB6E62A01B5DE42300B34EC7 /* 蓝莲花.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EB6E629E1B5DE42300B34EC7 /* 蓝莲花.mp3 */; };
+		EB6E62A31B5DECB400B34EC7 /* LoadVC.m in Sources */ = {isa = PBXBuildFile; fileRef = EB6E62A21B5DECB400B34EC7 /* LoadVC.m */; };
 		EBD682241B5CD734007064F3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EBD682231B5CD734007064F3 /* main.m */; };
 		EBD682271B5CD734007064F3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EBD682261B5CD734007064F3 /* AppDelegate.m */; };
 		EBD6822A1B5CD734007064F3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EBD682291B5CD734007064F3 /* ViewController.m */; };
@@ -14,6 +18,17 @@
 		EBD6822F1B5CD734007064F3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EBD6822E1B5CD734007064F3 /* Images.xcassets */; };
 		EBD682321B5CD734007064F3 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = EBD682301B5CD734007064F3 /* LaunchScreen.xib */; };
 		EBD6823E1B5CD734007064F3 /* AVAudioPlayerDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EBD6823D1B5CD734007064F3 /* AVAudioPlayerDemoTests.m */; };
+		EBD6825A1B5CDCB0007064F3 /* SDBallProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = EBD6824C1B5CDCB0007064F3 /* SDBallProgressView.m */; };
+		EBD6825B1B5CDCB0007064F3 /* SDBaseProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = EBD6824E1B5CDCB0007064F3 /* SDBaseProgressView.m */; };
+		EBD6825C1B5CDCB0007064F3 /* SDLoopProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = EBD682501B5CDCB0007064F3 /* SDLoopProgressView.m */; };
+		EBD6825D1B5CDCB0007064F3 /* SDPieLoopProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = EBD682521B5CDCB0007064F3 /* SDPieLoopProgressView.m */; };
+		EBD6825E1B5CDCB0007064F3 /* SDPieProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = EBD682541B5CDCB0007064F3 /* SDPieProgressView.m */; };
+		EBD6825F1B5CDCB0007064F3 /* SDRotationLoopProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = EBD682571B5CDCB0007064F3 /* SDRotationLoopProgressView.m */; };
+		EBD682601B5CDCB0007064F3 /* SDTransparentPieProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = EBD682591B5CDCB0007064F3 /* SDTransparentPieProgressView.m */; };
+		EBD682621B5CE1C7007064F3 /* 存在.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EBD682611B5CE1C7007064F3 /* 存在.mp3 */; };
+		EBD682651B5CEBEE007064F3 /* 沧浪之歌.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EBD682631B5CEBEE007064F3 /* 沧浪之歌.mp3 */; };
+		EBD682661B5CEBEE007064F3 /* 老男孩.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EBD682641B5CEBEE007064F3 /* 老男孩.mp3 */; };
+		EBD682681B5D01D1007064F3 /* 空城.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EBD682671B5D01D1007064F3 /* 空城.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +42,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EB6E629B1B5DC89800B34EC7 /* login_introduce_bg4@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "login_introduce_bg4@2x.jpg"; sourceTree = "<group>"; };
+		EB6E629D1B5DE42300B34EC7 /* 一块红布.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "一块红布.mp3"; sourceTree = "<group>"; };
+		EB6E629E1B5DE42300B34EC7 /* 蓝莲花.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "蓝莲花.mp3"; sourceTree = "<group>"; };
+		EB6E62A11B5DECB400B34EC7 /* LoadVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoadVC.h; sourceTree = "<group>"; };
+		EB6E62A21B5DECB400B34EC7 /* LoadVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoadVC.m; sourceTree = "<group>"; };
 		EBD6821E1B5CD734007064F3 /* AVAudioPlayerDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AVAudioPlayerDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EBD682221B5CD734007064F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EBD682231B5CD734007064F3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -40,6 +60,25 @@
 		EBD682371B5CD734007064F3 /* AVAudioPlayerDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AVAudioPlayerDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EBD6823C1B5CD734007064F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EBD6823D1B5CD734007064F3 /* AVAudioPlayerDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AVAudioPlayerDemoTests.m; sourceTree = "<group>"; };
+		EBD6824B1B5CDCB0007064F3 /* SDBallProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDBallProgressView.h; sourceTree = "<group>"; };
+		EBD6824C1B5CDCB0007064F3 /* SDBallProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDBallProgressView.m; sourceTree = "<group>"; };
+		EBD6824D1B5CDCB0007064F3 /* SDBaseProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDBaseProgressView.h; sourceTree = "<group>"; };
+		EBD6824E1B5CDCB0007064F3 /* SDBaseProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDBaseProgressView.m; sourceTree = "<group>"; };
+		EBD6824F1B5CDCB0007064F3 /* SDLoopProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDLoopProgressView.h; sourceTree = "<group>"; };
+		EBD682501B5CDCB0007064F3 /* SDLoopProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDLoopProgressView.m; sourceTree = "<group>"; };
+		EBD682511B5CDCB0007064F3 /* SDPieLoopProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDPieLoopProgressView.h; sourceTree = "<group>"; };
+		EBD682521B5CDCB0007064F3 /* SDPieLoopProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDPieLoopProgressView.m; sourceTree = "<group>"; };
+		EBD682531B5CDCB0007064F3 /* SDPieProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDPieProgressView.h; sourceTree = "<group>"; };
+		EBD682541B5CDCB0007064F3 /* SDPieProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDPieProgressView.m; sourceTree = "<group>"; };
+		EBD682551B5CDCB0007064F3 /* SDProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDProgressView.h; sourceTree = "<group>"; };
+		EBD682561B5CDCB0007064F3 /* SDRotationLoopProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDRotationLoopProgressView.h; sourceTree = "<group>"; };
+		EBD682571B5CDCB0007064F3 /* SDRotationLoopProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDRotationLoopProgressView.m; sourceTree = "<group>"; };
+		EBD682581B5CDCB0007064F3 /* SDTransparentPieProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDTransparentPieProgressView.h; sourceTree = "<group>"; };
+		EBD682591B5CDCB0007064F3 /* SDTransparentPieProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDTransparentPieProgressView.m; sourceTree = "<group>"; };
+		EBD682611B5CE1C7007064F3 /* 存在.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "存在.mp3"; sourceTree = "<group>"; };
+		EBD682631B5CEBEE007064F3 /* 沧浪之歌.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "沧浪之歌.mp3"; sourceTree = "<group>"; };
+		EBD682641B5CEBEE007064F3 /* 老男孩.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "老男孩.mp3"; sourceTree = "<group>"; };
+		EBD682671B5D01D1007064F3 /* 空城.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "空城.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,10 +120,20 @@
 		EBD682201B5CD734007064F3 /* AVAudioPlayerDemo */ = {
 			isa = PBXGroup;
 			children = (
+				EBD6824A1B5CDC86007064F3 /* progress */,
 				EBD682251B5CD734007064F3 /* AppDelegate.h */,
 				EBD682261B5CD734007064F3 /* AppDelegate.m */,
 				EBD682281B5CD734007064F3 /* ViewController.h */,
 				EBD682291B5CD734007064F3 /* ViewController.m */,
+				EB6E62A11B5DECB400B34EC7 /* LoadVC.h */,
+				EB6E62A21B5DECB400B34EC7 /* LoadVC.m */,
+				EBD682611B5CE1C7007064F3 /* 存在.mp3 */,
+				EBD682631B5CEBEE007064F3 /* 沧浪之歌.mp3 */,
+				EBD682641B5CEBEE007064F3 /* 老男孩.mp3 */,
+				EBD682671B5D01D1007064F3 /* 空城.mp3 */,
+				EB6E629D1B5DE42300B34EC7 /* 一块红布.mp3 */,
+				EB6E629E1B5DE42300B34EC7 /* 蓝莲花.mp3 */,
+				EB6E629B1B5DC89800B34EC7 /* login_introduce_bg4@2x.jpg */,
 				EBD6822B1B5CD734007064F3 /* Main.storyboard */,
 				EBD6822E1B5CD734007064F3 /* Images.xcassets */,
 				EBD682301B5CD734007064F3 /* LaunchScreen.xib */,
@@ -117,6 +166,28 @@
 				EBD6823C1B5CD734007064F3 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		EBD6824A1B5CDC86007064F3 /* progress */ = {
+			isa = PBXGroup;
+			children = (
+				EBD6824B1B5CDCB0007064F3 /* SDBallProgressView.h */,
+				EBD6824C1B5CDCB0007064F3 /* SDBallProgressView.m */,
+				EBD6824D1B5CDCB0007064F3 /* SDBaseProgressView.h */,
+				EBD6824E1B5CDCB0007064F3 /* SDBaseProgressView.m */,
+				EBD6824F1B5CDCB0007064F3 /* SDLoopProgressView.h */,
+				EBD682501B5CDCB0007064F3 /* SDLoopProgressView.m */,
+				EBD682511B5CDCB0007064F3 /* SDPieLoopProgressView.h */,
+				EBD682521B5CDCB0007064F3 /* SDPieLoopProgressView.m */,
+				EBD682531B5CDCB0007064F3 /* SDPieProgressView.h */,
+				EBD682541B5CDCB0007064F3 /* SDPieProgressView.m */,
+				EBD682551B5CDCB0007064F3 /* SDProgressView.h */,
+				EBD682561B5CDCB0007064F3 /* SDRotationLoopProgressView.h */,
+				EBD682571B5CDCB0007064F3 /* SDRotationLoopProgressView.m */,
+				EBD682581B5CDCB0007064F3 /* SDTransparentPieProgressView.h */,
+				EBD682591B5CDCB0007064F3 /* SDTransparentPieProgressView.m */,
+			);
+			name = progress;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,9 +270,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EBD682661B5CEBEE007064F3 /* 老男孩.mp3 in Resources */,
+				EB6E62A01B5DE42300B34EC7 /* 蓝莲花.mp3 in Resources */,
+				EBD682621B5CE1C7007064F3 /* 存在.mp3 in Resources */,
 				EBD6822D1B5CD734007064F3 /* Main.storyboard in Resources */,
+				EBD682681B5D01D1007064F3 /* 空城.mp3 in Resources */,
+				EB6E629C1B5DC89800B34EC7 /* login_introduce_bg4@2x.jpg in Resources */,
+				EBD682651B5CEBEE007064F3 /* 沧浪之歌.mp3 in Resources */,
 				EBD682321B5CD734007064F3 /* LaunchScreen.xib in Resources */,
 				EBD6822F1B5CD734007064F3 /* Images.xcassets in Resources */,
+				EB6E629F1B5DE42300B34EC7 /* 一块红布.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,9 +297,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EBD6825D1B5CDCB0007064F3 /* SDPieLoopProgressView.m in Sources */,
 				EBD6822A1B5CD734007064F3 /* ViewController.m in Sources */,
+				EBD6825F1B5CDCB0007064F3 /* SDRotationLoopProgressView.m in Sources */,
+				EB6E62A31B5DECB400B34EC7 /* LoadVC.m in Sources */,
+				EBD6825A1B5CDCB0007064F3 /* SDBallProgressView.m in Sources */,
+				EBD6825E1B5CDCB0007064F3 /* SDPieProgressView.m in Sources */,
 				EBD682271B5CD734007064F3 /* AppDelegate.m in Sources */,
 				EBD682241B5CD734007064F3 /* main.m in Sources */,
+				EBD6825C1B5CDCB0007064F3 /* SDLoopProgressView.m in Sources */,
+				EBD682601B5CDCB0007064F3 /* SDTransparentPieProgressView.m in Sources */,
+				EBD6825B1B5CDCB0007064F3 /* SDBaseProgressView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -418,6 +504,7 @@
 				EBD682431B5CD734007064F3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EBD682441B5CD734007064F3 /* Build configuration list for PBXNativeTarget "AVAudioPlayerDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +513,7 @@
 				EBD682461B5CD734007064F3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
